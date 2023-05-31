@@ -13,6 +13,6 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 
 4- film tablosunda 'K' karakteri ile başlayan en uzun ve replacemet_cost değeri en düşük 4 filmi sıralayınız.
 
-5- customer tablosunda en çok alışveriş yapan müşterinin adı nedir?
+5- customer tablosunda alışverişte en çok harcama yapan müşterinin adı nedir?
 
 Kolay Gelsin
